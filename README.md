@@ -2,6 +2,8 @@
 
 A `tmux` plugin that sends a command to all your panes.
 
+![Demo](img/demo.gif)
+
 ## Key Bindings
 
 `prefix + a`: triggers the input in `tmux` command prompt
