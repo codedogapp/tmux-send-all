@@ -10,9 +10,9 @@ A `tmux` plugin that sends a command to all your panes.
 
 The default key bindings can be overridden by `set -g @sendall-key 'b'`
 
-## Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
+## Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) / [tpack](https://github.com/tmuxpack/tpack)
 
-Add plugin to the list of TPM plugins in `.tmux.conf`:
+Add plugin to the list of TPM/tpack plugins in `.tmux.conf`:
 
 `set -g @plugin 'codedogapp/tmux-send-all'`
 
